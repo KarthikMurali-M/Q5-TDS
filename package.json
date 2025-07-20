@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node scraper.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
